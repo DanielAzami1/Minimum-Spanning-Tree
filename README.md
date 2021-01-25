@@ -1,5 +1,6 @@
 # Minimum-Spanning-Tree
 Implements Kruskal's algorithm to produce a MST. 
+
 Input: text file with lines consisting of three items: the *from* node (int), the *to* node (int), the name of the edge
 given, and the edge weight.
 
